@@ -97,7 +97,13 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+html {
+    font-family: 'Roboto', sans-serif;
+}
 
+h1 {
+    font-family: 'Quicksand', sans-serif;
+}
 
 
 
