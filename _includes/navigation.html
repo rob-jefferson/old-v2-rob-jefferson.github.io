@@ -1,5 +1,5 @@
 <nav class="nav nav-pills mb-3 mt-1">
-        <span class="navbar-brand">robjefferson.uk</span>
+        <span class="navbar-brand"><img src="/images/rob-jefferson-thumb.jpg" width="30" height="30" class="d-inline-block align-top mr-2" alt="Rob Jefferson">robjefferson.uk</span>
         {% for item in site.data.navigation %}
         <a href="{{ item.link }}" {% if page.url == item.link %} class="nav-link active" {% else %} class="nav-link" {% endif %}>
                 {{ item.name }}</a>
