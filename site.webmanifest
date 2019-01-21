@@ -1,4 +1,12 @@
 {
+    "lang": "en",
+    "name": "robjefferson.uk",
+    "short_name": "Rob Jefferson",
+    "start_url": "/",
+    "display": "browser",
+    "background_color": "#007bff",
+    "theme_color": "#007bff",
+    "description": "The personal site of Rob Jefferson.",
     "icons": [
         {
          "src": "\/android-icon-36x36.png",
@@ -36,6 +44,5 @@
          "type": "image\/png",
          "density": "4.0"
         }
-       ],
-    "start_url": "/"
+       ]
 }
