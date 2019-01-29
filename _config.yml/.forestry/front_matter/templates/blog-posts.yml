@@ -23,3 +23,5 @@ fields:
 - type: text
   name: profile
   label: Profile
+pages:
+- _config.yml/_posts/2019-01-29-this-is-a-test-post.md
