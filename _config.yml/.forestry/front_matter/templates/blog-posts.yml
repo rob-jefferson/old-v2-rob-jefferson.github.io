@@ -1,0 +1,25 @@
+---
+label: Blog posts
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: cleantitle
+  label: Title
+  description: Title of post
+  config:
+    required: true
+- type: textarea
+  label: Body
+  name: body
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+    required: true
+- type: text
+  name: author
+  label: Author
+- type: text
+  name: profile
+  label: Profile
