@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Rob Jefferson
+cleantitle: New Year, New Website, New Philosophy.
 profile: https://www.robjefferson.uk
 ---
 

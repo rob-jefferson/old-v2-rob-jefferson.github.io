@@ -9,6 +9,22 @@ includes_dir        : _includes
 collections:
   posts:
     output          : true
+  
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
 
 # Handling Reading
 safe                : false
